@@ -1,0 +1,141 @@
+.bg-img {
+    background-image: url('/src/assets/image/background/poster.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bg-img1{
+    background-image: url('/src/assets/image/background/poster1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bg-img2{
+    background-image: url('/src/assets/image/background/poster2.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bg-img3{
+    background-image: url('/src/assets/image/background/poster3.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bg-img4{
+    background-image: url('/src/assets/image/background/poster4.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bg-img5{
+    background-image: url('/src/assets/image/background/poster5.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bg-img6{
+    background-image: url('/src/assets/image/background/poster6.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bg-img7{
+    background-image: url('/src/assets/image/background/poster7.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bg-img8{
+    background-image: url('/src/assets/image/background/poster8.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bg-img9{
+    background-image: url('/src/assets/image/background/poster9.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bg-img10{
+    background-image: url('/src/assets/image/background/poster10.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bg-img11{
+    background-image: url('/src/assets/image/background/poster11.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.agent-bg-img {
+    background-image: url('/src/assets/image/background/agent1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.light{
+    line-height: 1.6;
+    font-weight: 300;
+}
+
+.display-10 {
+    font-weight: 300;
+    line-height: 1.6;
+    font-size: 1rem;
+}
+
+/* 在全局样式文件或组件样式中定义 */
+.active-link {
+    color: #cc22ea; /* 设置高亮的颜色 */
+}
+.active-link:hover{
+    color: #cc22ea;
+}
+.active-link:checked{
+    color: #cc22ea;
+}
+.active-link:focus{
+    color: #cc22ea;
+}
+
+@media (min-width: 576px) {
+    .w-sm-25 {
+        width: 25% !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .w-md-25 {
+        width: 25% !important;
+    }
+}
+
