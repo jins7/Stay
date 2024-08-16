@@ -102,7 +102,7 @@
   <div class="container py-5">
     <div class="row">
       <div class="col-12 h1 fw-light text-center mb-3 my-sm-5">
-        成员所在单位
+        成员来自
       </div>
 
       <div class="col-12">
