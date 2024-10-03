@@ -34,7 +34,8 @@
             <img src="../assets/image/intro/stay-agent.png" class="img-fluid p-3" alt="...">
           </div>
           <div class="h4 fw-light text-center my-3">
-            无需编码，把您的创意轻松变为应用，释放无限创造力。
+            定制你的社交体验，
+            打造Agent智能互动生态
           </div>
         </div>
       </div>

@@ -32,14 +32,22 @@
         </div>
         <div class="card-body">
           <div class="text-center pb-3">
-            <div class="h4 fw-normal">
-              {{ data.name }}
-            </div>
+<!--            <div class="h4 fw-normal">-->
+              <a class="h4 fw-normal text-center" :href="data.website">
+                {{ data.name }}
+              </a>
+<!--            </div>-->
           </div>
           <div class="text-center py-1">
             <div class="h4 fw-light pb-2">{{ data.title }}</div>
           </div>
-          <div class=" py-1">
+          <div class="text-center py-1">
+            <div class="h5 fw-light">{{ data.research }}</div>
+          </div>
+<!--          <a class="text-center" href="{{data.website}}">-->
+<!--            <div class="h5 m-2 m-sm-3 fw-normal">{{ data.email }}</div>-->
+<!--          </a>-->
+          <div class=" py-1 mt-4">
             <div v-for="item in data.intro" class="pb-2 h6 fw-light lh-base">
               {{ item }}
             </div>
