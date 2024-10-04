@@ -6,11 +6,11 @@
     <div class="container h-100 d-flex flex-column justify-content-center">
       <div class="row text-left mb-5">
         <div class="col-12 mb-5">
-          <div class="display-1 mb-5">
+          <div class="display-2 mb-5">
 <!--            STAY.Agent：-->
             定制你的社交体验，<br>打造端到端智能互动生态。
           </div>
-          <div class="display-6">
+          <div class="display-7">
             借助 Agent 的强大能力，把你的灵感变成软件，把你的语言变成应用场景。
           </div>
         </div>
@@ -24,7 +24,7 @@
         <div class="h2 fw-light text-center p-5">
           我们的愿景
         </div>
-        <div class="col-12 col-sm-10 h5 fw-light pb-4 pb-sm-5 lh-base">
+        <div class="col-12 col-sm-11 h5 fw-light pb-4 pb-sm-5 lh-base">
           我们的愿景是创建一个全球性的社交平台，使每一位用户都能成为其社交体验的真正主人。通过先进的大语言模型技术，<mark>STAY.Agent赋予用户高效开发和定制自己独特社交产品的能力</mark>。我们致力于打破传统社交媒体的界限，提供一个高度个性化、互动性强的平台，让用户不仅能享受交流的乐趣，还能通过创新和创意实现自己的社交梦想。STAY.Agent不仅是一个工具，更是一个让每个人都能创造、分享并连接彼此的社交生态系统，从而建立一个更加紧密和包容的数字社区。
         </div>
         <div class="col-12 col-sm-11 pb-sm-5">
@@ -45,12 +45,12 @@
             <div class="card-body bg-light">
               <div class="d-flex justify-content-center align-items-center py-3">
                 <img :src="feature.logo" width="30" height="30" class="m-2" alt="">
-                <div class="m-2 h4 fw-light lh-base">
+                <div class="m-2 h5 fw-light lh-base">
                   {{ feature.name }}
                 </div>
               </div>
               <div class="text-center">
-                <div class="pb-2 h5 fw-light lh-base">
+                <div class="pb-2 h6 fw-light lh-base">
                   {{ feature.intro }}
                 </div>
               </div>

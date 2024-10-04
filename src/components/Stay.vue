@@ -4,13 +4,13 @@
       <div class="container py-1 py-sm-5">
         <div class="row my-4 my-sm-5">
           <div class="col-12 col-sm-10 col-md-8">
-            <div class="display-3 text-dark">
+            <div class="display-4 text-dark">
               STAY智能开发平台
             </div>
-            <div class="display-6 text-dark mt-5 pt-3">
+            <div class="display-8 text-dark mt-5 pt-3">
               无需编码，把您的创意轻松变为应用，释放无限创造力
             </div>
-            <div class="h3 fw-light text-primary my-5 lh-base">
+            <div class="h4 fw-light text-primary my-5 lh-base">
               无代码编程平台 ✖️ UI设计平台 ✖️ 组件内容分发平台
             </div>
             <div class="h5 fw-light lh-base mb-5">
@@ -51,7 +51,7 @@
         <div class="row justify-content-center align-items-center py-5">
           <div class="col-10 text-center mt-sm-5">
             <div class="h2 fw-light">庞大的底层架构</div>
-            <div class="h4 fw-light my-4">通过逻辑流数据流分层设计，为上层应用的丰富生态提供底层架构支撑</div>
+            <div class="h5 fw-light my-4">通过逻辑流数据流分层设计，为上层应用的丰富生态提供底层架构支撑</div>
           </div>
 
           <div class="col-12 mb-3">
@@ -67,7 +67,7 @@
         <div class="row justify-content-center align-items-center py-5">
           <div class="col-10 text-center mt-sm-5">
             <div class="h2 fw-light">灵活的模块组合</div>
-            <div class="h4 fw-light my-4">用户分别编辑UI界面和逻辑事件，设计出全新的玩法，赋予用户高效开发和定制自己独特社交产品的能力</div>
+            <div class="h5 fw-light my-4">用户分别编辑UI界面和逻辑事件，设计出全新的玩法，赋予用户高效开发和定制自己独特社交产品的能力</div>
           </div>
           <div class="col-12">
             <img src="../assets/image/stay/product1.png" class="img-fluid rounded-3 my-3" alt="...">

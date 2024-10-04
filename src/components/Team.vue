@@ -68,7 +68,7 @@ export default {
   data() {
     return {
       items1: [
-        { id: 1, type: "member", name: '苏江', avatar: new URL('@/assets/image/avatar/sj.jpg', import.meta.url).href, title: '联合创始人',  intro: ['SpaceAI创始人，为中国船级社提供AI saas服务', 'AI炼丹艺术创始人，为企业定制AI数字艺术作品']},
+        { id: 1, type: "member", name: '苏江', avatar: new URL('@/assets/image/avatar/sj.jpg', import.meta.url).href, title: '创始人',  intro: ['SpaceAI创始人，为中国船级社提供AI saas服务', 'AI炼丹艺术创始人，为企业定制AI数字艺术作品']},
         { id: 1, type: "member", name: '王琨', avatar: new URL('@/assets/image/avatar/wk.jpg', import.meta.url).href, title: '联合创始人',  intro: ['南洋理工大学博士后', '中国科学技术大学博士']},
         { id: 1, type: "member", name: '徐成卓', avatar: new URL('@/assets/image/avatar/xcz.jpeg', import.meta.url).href, title: '系统架构师',  intro: ['东南大学博士']},
         { id: 1, type: "member", name: '单子扬', avatar: new URL('@/assets/image/avatar/szy.jpeg', import.meta.url).href, title: '前端开发程序员',  intro: ['哔哩哔哩开发工程师', '中国科学技术大学硕士']},
