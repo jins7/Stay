@@ -15,10 +15,10 @@
 
 
     <div class="bg-img8">
-      <div class="container py-sm-5">
-        <div class="row">
+      <div class="container py-1 py-sm-5">
+        <div class="row my-4 my-sm-5">
           <div class="col-12 col-sm-10 col-md-8">
-            <div class="display-3 text-dark">
+            <div class="display-4 text-dark">
               STAY.Agent团队
             </div>
 
@@ -73,7 +73,6 @@ export default {
         { id: 1, type: "member", name: '徐成卓', avatar: new URL('@/assets/image/avatar/xcz.jpeg', import.meta.url).href, title: '系统架构师',  intro: ['东南大学博士']},
         { id: 1, type: "member", name: '单子扬', avatar: new URL('@/assets/image/avatar/szy.jpeg', import.meta.url).href, title: '前端开发程序员',  intro: ['哔哩哔哩开发工程师', '中国科学技术大学硕士']},
         { id: 1, type: "member", name: '徐刚', avatar: new URL('@/assets/image/avatar/xg.jpg', import.meta.url).href, title: '后端开发程序员',  intro: ['高级开发工程师，5年以上开发经历']},
-
       ],
 
       items2: [

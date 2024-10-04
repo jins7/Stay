@@ -34,7 +34,7 @@
             <img src="../assets/image/intro/stay-agent.png" class="img-fluid p-3" alt="...">
           </div>
           <div class="h4 fw-light text-center my-3">
-            定制你的社交体验，
+            定制你的社交体验，<br/>
             打造Agent智能互动生态
           </div>
         </div>

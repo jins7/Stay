@@ -7,13 +7,13 @@
             <div class="display-4 text-dark">
               STAY智能开发平台
             </div>
-            <div class="display-8 text-dark mt-5 pt-3">
+            <div class="display-8 text-dark mt-sm-5 pt-3">
               无需编码，把您的创意轻松变为应用，释放无限创造力
             </div>
-            <div class="h4 fw-light text-primary my-5 lh-base">
+            <div class="h4 fw-light text-primary my-4 my-sm-5 lh-base">
               无代码编程平台 ✖️ UI设计平台 ✖️ 组件内容分发平台
             </div>
-            <div class="h5 fw-light lh-base mb-5">
+            <div class="h5 fw-light lh-base my-5">
               STAY.Agent平台的核心价值，通过分析传统平台的局限，提出进步意义和解决方案。传统平台受限于产品标准化、定制化成本高及缺乏灵活社交场景设计，STAY.Agent通过底层架构重构，赋予用户灵活定制的能力。平台通过无代码节点设计、应用场景扩展、系统级模块集成等方式，让用户能够创建自定义社交场景、程序和AI应用。最终，<strong>用户通过输入需求，基于大语言模型的Agent生成应用方案，输出多样化产品，满足个性化需求</strong>。
             </div>
             <router-link class="btn btn-primary px-5 py-3 my-sm-5" aria-current="page" to="/stay">产品详情</router-link>

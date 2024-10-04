@@ -7,10 +7,10 @@
                   <div class="display-4 text-dark">
                     Agent智能代理平台
                   </div>
-                  <div class="display-8 text-dark mt-5 pt-3">
+                  <div class="display-8 text-dark mt-sm-5 pt-3">
                     把你的灵感变成软件，把你的语言变成应用场景
                   </div>
-                  <div class="h4 fw-light text-primary my-5 pt-3 lh-base">
+                  <div class="h4 fw-light text-primary my-4 my-sm-5 lh-base">
                      Multi-Agent ✖️ RAG ✖️ Tools
                   </div>
                   <div class="h5 fw-light lh-lg my-5">
@@ -68,7 +68,7 @@
               <img src="../assets/image/agent/feature1.png" class="img-fluid rounded-3" alt="...">
             </div>
 
-            <div class="col-12 col-md-5 text-center my-md-5">
+            <div class="col-12 col-md-5 text-center mt-5 my-md-5">
               <div class="h2 fw-light">海量工具调用</div>
               <div class="h5 fw-light my-4">
                 为用户提供海量的可以直接使用的APIs（如AI模型API、组件库API），以此丰富用户的使用场景，提升用户体验。
@@ -78,7 +78,7 @@
               <img src="../assets/image/agent/feature2.png" class="img-fluid rounded-3" alt="...">
             </div>
 
-            <div class="col-12 col-md-5 text-center my-md-5">
+            <div class="col-12 col-md-5 text-center mt-5 my-md-5">
               <div class="h2 fw-light">对抗式的反思</div>
               <div class="h5 fw-light my-4">
                 每个任务设置两个或多个Agent：一个负责完成任务，一个负责评估并反馈。通过双方多轮次的反馈交流，优化任务效果。
