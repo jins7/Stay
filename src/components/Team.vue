@@ -1,59 +1,38 @@
 <template>
   <section>
-<!--    <div class="bg-img8">-->
-<!--      <div class="container py-sm-5">-->
-<!--        <div class="row justify-content-center mb-sm-5">-->
-<!--          <div class="display-6 text-center p-5">-->
-<!--            我们的愿景-->
-<!--          </div>-->
-<!--          <div class="col-sm-10 h4 fw-light text-center pb-5 lh-lg">-->
-<!--            我们的愿景是创建一个全球性的社交平台，使每一位用户都能成为其社交体验的真正主人。通过先进的大语言模型技术，<mark>STAY.Agent赋予用户高效开发和定制自己独特社交产品的能力</mark>。我们致力于打破传统社交媒体的界限，提供一个高度个性化、互动性强的平台，让用户不仅能享受交流的乐趣，还能通过创新和创意实现自己的社交梦想。STAY.Agent不仅是一个工具，更是一个让每个人都能创造、分享并连接彼此的社交生态系统，从而建立一个更加紧密和包容的数字社区。-->
-<!--          </div>-->
-<!--        </div>-->
-<!--      </div>-->
-<!--    </div>-->
 
+    <div class="container h-100 d-flex flex-column ">
+      <div class="row text-left">
+        <div class="col-12 px-sm-5 text-center">
+          <div class="display-2 my-5 fw-normal ">
+            STAY.Agent Team
+          </div>
+          <div class="display-9 text-secondary">
 
-    <div class="bg-img8">
-      <div class="container py-1 py-sm-5">
-        <div class="row my-4 my-sm-5">
-          <div class="col-12 col-sm-10 col-md-8">
-            <div class="display-4 text-dark">
-              STAY.Agent团队
-            </div>
+            The STAY.Agent team is composed of members with strong technical backgrounds and extensive industry experience, boasting years of hands-on expertise in artificial intelligence, big data, software development, and other fields. Team members come from renowned tech companies and top academic institutions, covering key areas such as technology research and development, product design, and market operations.
+          </div>
+        </div>
 
-            <div class="h5 fw-light lh-base mb-5 my-5">
-              STAY.Agent团队由具备深厚技术背景和丰富行业经验的成员组成，拥有多年在人工智能、大数据、软件开发等领域的实践经验。团队成员来自知名科技公司和顶尖学术机构，覆盖技术研发、产品设计、市场运营等关键领域。凭借对AI技术的深刻理解，团队致力于推动智能软件创新，提供个性化、高效的用户体验，专注打造全球性、用户导向的社交平台。
-            </div>
+        <div class="col-12 text-center">
+          <div class="btn btn-outline-primary disabled px-4 mt-5 rounded-3">
+            Founding Team
           </div>
-<!--          <div class="display-6 text-center py-4">-->
-<!--            我们的团队-->
-<!--          </div>-->
-          <div class="h3 fw-light pt-sm-4">
-            创始团队
-          </div>
-          <Avatar v-for="item in items1" :key="item.id" :data="item" />
         </div>
-      </div>
-    </div>
-    <div class="bg-img8">
-      <div class="container py-4 py-sm-5">
-        <div class="row">
-          <div class="h3 fw-light pt-sm-4">
-            核心团队
+        <Avatar v-for="item in items1" :key="item.id" :data="item" />
+
+        <div class="col-12 text-center">
+          <div class="btn btn-outline-primary disabled px-4 mt-5 rounded-3">
+            Core Team
           </div>
-          <Avatar v-for="item in items2" :key="item.id" :data="item"/>
         </div>
-      </div>
-    </div>
-    <div class="bg-img5">
-      <div class="container py-4 py-sm-5">
-        <div class="row">
-          <div class="h3 fw-light pt-sm-4">
-            技术顾问 - 导师
+        <Avatar v-for="item in items2" :key="item.id" :data="item"/>
+
+        <div class="col-12 text-center">
+          <div class="btn btn-outline-primary disabled px-4 mt-5 rounded-3">
+            Technical Advisor - Mentor
           </div>
-          <Avatar v-for="item in items3" :key="item.id" :data="item" />
         </div>
+        <Avatar v-for="item in items3" :key="item.id" :data="item" />
       </div>
     </div>
 

@@ -13,12 +13,17 @@ const router = createRouter({
     {
       path: '/stay',
       name: 'stay',
-      component: () => import('../components/Stay.vue')
+      component: () => import('../components/ETL.vue')
     },
     {
       path: '/agent',
       name: 'agent',
       component: () => import('../components/Agent.vue')
+    },
+    {
+      path: '/tools',
+      name: 'tools',
+      component: () => import('../components/Tools.vue')
     },
     {
       path: '/team',
